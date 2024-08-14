@@ -1,0 +1,330 @@
+@media (max-width: 1023px) {
+  .hero {
+    padding: 15px 0;
+    padding-bottom: 136px;
+  }
+
+  .hero-title {
+    font-size: 50px;
+    margin-bottom: 16px;
+  }
+
+  .btn-hero {
+    left: 15px;
+    top: 403px;
+  }
+
+  .img-hero {
+    margin-top: 104px;
+  }
+
+  .about-us {
+    padding-bottom: 72px;
+  }
+
+  .about-text {
+    padding-left: 240px;
+    margin-bottom: 23px;
+  }
+
+  .about-text::before {
+    width: 211px;
+    height: 187px;
+  }
+
+  .about-content {
+    padding-right: 25px;
+  }
+
+  .about-content-2 {
+    padding-left: 0;
+    width: 100%;
+  }
+
+  .about-content-2::before {
+    transform: none;
+    position: initial;
+    display: block;
+    margin-bottom: 13px;
+  }
+
+  .Teachers {
+    padding-top: 74px;
+    padding-bottom: 21px;
+  }
+
+  .mob-768 {
+    display: none;
+  }
+
+  .Teach-text {
+    width: 100%;
+  }
+
+  .text-ch {
+    right: 9px;
+  }
+
+  .coursess-text {
+    margin-bottom: 15px;
+    min-height: 209px;
+  }
+
+  .text-courses {
+    padding: 29px;
+    padding-bottom: 17px;
+    min-height: 377px;
+  }
+
+  .btn-courses {
+    width: 195px;
+    padding: 20.5px 55.5px;
+  }
+
+  .courses {
+    padding-bottom: 49px;
+  }
+
+  .footer-skil {
+    padding-top: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .header {
+    padding-bottom: 30px;
+  }
+
+  .header .col-sm-12 {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header-nav {
+    margin-top: 24px;
+    width: 100%;
+  }
+
+  .header-list {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .hero-title {
+    padding-top: 63px;
+  }
+
+  .hero-text {
+    padding-top: 0;
+    margin-bottom: 61px;
+    padding-right: 75px;
+  }
+
+  .btn-hero {
+    top: 352px;
+  }
+
+  .img-hero {
+    display: none;
+  }
+
+  .about-us {
+    padding-top: 79px;
+    padding-bottom: 53px;
+  }
+
+  .about-text {
+    padding-left: 180px;
+  }
+
+  .about-text::before {
+    width: 150px;
+    height: 134px;
+    transform: none;
+    top: 0;
+  }
+
+  .about-title {
+    left: 215px;
+    width: 330px;
+  }
+
+  .about-content {
+    padding-right: 0px;
+  }
+
+  .about-content-2 {
+    margin-top: 0px;
+  }
+
+  .Teachers {
+    padding-bottom: 45px;
+  }
+
+  .text-courses {
+    padding-bottom: 4px;
+    min-height: 474px;
+  }
+
+  .courses-h3 {
+    line-height: 138%;
+    min-width: 194px;
+  }
+
+  .coursess-text {
+    margin-bottom: 33px;
+    min-height: 266px;
+    padding-right: 20px;
+  }
+
+  .btn-courses {
+    width: 180px;
+    padding: 20.5px 48px;
+  }
+
+}
+
+@media (max-width: 575px) {
+  .header {
+    padding-top: 23px;
+    padding-bottom: 29px;
+  }
+
+  .nav {
+    display: none !important;
+  }
+
+  .header-menu {
+    display: block;
+  }
+
+  .header .col-sm-12 {
+    justify-content: space-between;
+  }
+
+  .header-logo-img {
+    Width: 72px;
+    Height: 16px;
+  }
+
+  .hero {
+    padding-bottom: 50px;
+  }
+
+  .hero-title {
+    padding-top: 35px;
+    font-size: 30px;
+    margin-bottom: 4px;
+  }
+
+  .hero-text {
+    margin-bottom: 45px;
+    font-size: 16px;
+    line-height: 21px;
+    padding-right: 0px;
+    width: 291px;
+  }
+
+  .btn-hero {
+    width: 213px;
+    height: 60px;
+    padding: 21px 54px;
+    top: 228px;
+  }
+
+  .text-btn {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .about-us {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+
+  .about-title {
+    margin-bottom: 2px;
+    font-size: 20px;
+    line-height: 26px;
+    width: 250px;
+  }
+
+  .about-text {
+    padding-left: 0;
+  }
+
+  .about-text::before {
+    display: none;
+  }
+
+  .about-content-2::before {
+    flex-shrink: 0;
+    margin-bottom: 0;
+    margin-right: 30px;
+  }
+
+  .about-content-2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    padding-right: 10px;
+  }
+
+  .Teachers {
+    padding-top: 47px;
+    padding-bottom: 22px;
+  }
+
+  .Teachers-title {
+    margin-bottom: 27px;
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .Teach-text {
+    padding-bottom: 24px;
+    padding-right: 10px;
+  }
+
+  .Teachers-item {
+    margin-top: -10px;
+    padding-bottom: 1px;
+  }
+
+  .courses {
+    padding-top: 46px;
+    padding-bottom: 20px;
+  }
+
+  .courses-title {
+    font-size: 20px;
+    line-height: 100%;
+    margin-bottom: 26px;
+  }
+
+  .courses-h3 {
+    line-height: 138%;
+    padding-right: 46px;
+  }
+
+  .text-courses {
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    min-height: 473px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .coursess-text {
+    margin-bottom: 0px;
+    min-height: auto;
+    flex: 1;
+  }
+
+  .btn-courses {
+    width: 195px;
+    padding: 22.5px 55px;
+  }
+}
